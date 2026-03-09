@@ -1,0 +1,21 @@
+  [
+    {
+      "Author": "yourname",
+      "Name": "FFTags",
+      "Description": "Look up FFTags for
+  any character.",
+      "InternalName": "FFTagsPlugin",
+      "AssemblyVersion": "0.0.0.2",
+      "RepoUrl":
+  "https://github.com/you/FFTagsPlugin",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 12,
+      "DownloadLinkInstall": "https://git
+  hub.com/you/FFTagsPlugin/releases/lates
+  t/download/FFTagsPlugin.zip",
+      "DownloadLinkUpdate": "https://gith
+  ub.com/you/FFTagsPlugin/releases/latest
+  /download/FFTagsPlugin.zip",
+      "DownloadCount": 0
+    }
+  ]
