@@ -4,7 +4,7 @@
       "Name": "FFTags",
       "Description": "Show tags for players, voted by the community.",
       "InternalName": "FFTagsPlugin",
-      "AssemblyVersion": "0.0.0.2",
+      "AssemblyVersion": "0.0.0.3",
       "RepoUrl":
   "https://github.com/progparty/fftags",
       "ApplicableVersion": "any",
