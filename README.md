@@ -1,0 +1,2 @@
+# fftags
+FFTags Dalamud Plugin
