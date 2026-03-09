@@ -8,7 +8,7 @@
       "RepoUrl":
   "https://github.com/progparty/fftags",
       "ApplicableVersion": "any",
-      "DalamudApiLevel": 12,
+      "DalamudApiLevel": 14,
       "DownloadLinkInstall": "https://github.com/progparty/fftags/releases/download/release/FFTagsPlugin.zip",
       "DownloadLinkUpdate": "https://github.com/progparty/fftags/releases/download/release/FFTagsPlugin.zip",
       "DownloadCount": 0
