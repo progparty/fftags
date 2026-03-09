@@ -9,12 +9,8 @@
   "https://github.com/progparty/fftags",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 12,
-      "DownloadLinkInstall": "https://git
-  hub.com/you/FFTagsPlugin/releases/lates
-  t/download/FFTagsPlugin.zip",
-      "DownloadLinkUpdate": "https://gith
-  ub.com/you/FFTagsPlugin/releases/latest
-  /download/FFTagsPlugin.zip",
+      "DownloadLinkInstall": "https://github.com/progparty/fftags/releases/download/release/FFTagsPlugin.zip",
+      "DownloadLinkUpdate": "https://github.com/progparty/fftags/releases/download/release/FFTagsPlugin.zip",
       "DownloadCount": 0
     }
   ]
