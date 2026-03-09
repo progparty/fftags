@@ -11,6 +11,7 @@
       "DalamudApiLevel": 14,
       "DownloadLinkInstall": "https://github.com/progparty/fftags/releases/download/release/FFTagsPlugin.zip",
       "DownloadLinkUpdate": "https://github.com/progparty/fftags/releases/download/release/FFTagsPlugin.zip",
-      "DownloadCount": 0
+      "DownloadCount": 0,
+      "IconUrl": "https://progparty.github.io/images/logo.png"
     }
   ]
